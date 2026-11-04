@@ -105,10 +105,9 @@ Built and tested on a Mac, and written to run on Windows too.
 
 ## Installing it
 
-1. **Get access.** The skill lives on the Collecting Daily GitHub, which is private. Ask for your GitHub account to be added.
-2. **Download it.** On the [skill's GitHub page](https://github.com/CollectingDaily/claude-market-report-layout), click the green **Code** button, then **Download ZIP**.
-3. **Install it.** Open the Claude app, click **Code**, choose any folder, drag the ZIP into the message box and type: *Install this skill as a personal skill.* Click **Allow** when asked.
-4. **Restart.** Close the Claude app and open it again. Type **/** and look for **market-report-layout** in the list.
+1. **Download it.** On the [skill's GitHub page](https://github.com/CollectingDaily/claude-market-report-layout), click the green **Code** button, then **Download ZIP**.
+2. **Install it.** Open the Claude app, click **Code**, choose any folder, drag the ZIP into the message box and type: *Install this skill as a personal skill.* Click **Allow** when asked.
+3. **Restart.** Close the Claude app and open it again. Type **/** and look for **market-report-layout** in the list.
 
 ---
 
